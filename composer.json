@@ -1,0 +1,27 @@
+{
+    "name": "sanjayam/authentication",
+    "description": "New simple auth package",
+    "type": "vcs",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Zizaco/entrust"
+        }
+    ],
+    "require": {
+        "zizaco/entrust": "5.2.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sanjaya De Silva",
+            "email": "san3jaya@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "SlimAuth\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
