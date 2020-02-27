@@ -15,7 +15,7 @@
     "scaffold:page": "node scaffolder"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "1.2.25",
+    "@fortawesome/fontawesome-svg-core": "1.2.27",
     "@fortawesome/free-solid-svg-icons": "5.11.2",
     "@fortawesome/vue-fontawesome": "0.1.8",
     "@sentry/browser": "^5.9.1",
