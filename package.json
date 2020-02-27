@@ -55,7 +55,7 @@
     "@nuxtjs/eslint-config": "^1.1.2",
     "@vue/cli-plugin-babel": "^4.2.2",
     "@vue/cli-plugin-e2e-cypress": "^4.2.2",
-    "@vue/cli-plugin-eslint": "^4.2.2",
+    "@vue/cli-plugin-eslint": "^4.2.3",
     "@vue/cli-plugin-unit-jest": "^4.2.2",
     "@vue/cli-service": "^4.2.2",
     "@vue/eslint-config-standard": "3.0.3",
